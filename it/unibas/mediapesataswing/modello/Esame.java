@@ -20,6 +20,10 @@ public class Esame {
         setCrediti(crediti);
         setDataRegistrazione(dataRegistrazione);
     }
+    
+    public void test(){
+    	return 0;
+    }
 
     public String getInsegnamento() {
         return this.insegnamento;
